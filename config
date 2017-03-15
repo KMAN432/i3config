@@ -222,8 +222,9 @@ bindsym $mod+p exec urxvt -e htop
 # To set Wallpaper
 exec sh ~/.fehbg
 
-# Floating Terminal and Ranger
-for_window [class="URxvt" instance="urxvt"] floating enable
+# Floating Terminal and Thunar
+for_window [class="URxvt" instance"urxvt"] floating enable
+for_window [class="Thunar" instance"thunar"] floating enable
 
 # Compton to remove Screen Tearing
 exec --no-startup-id compton --config ~/.compton.conf &
