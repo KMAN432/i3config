@@ -219,7 +219,7 @@ bindsym $mod+p exec urxvt -e htop
 bindsym $mod+i exec /home/kman432/IrisF/Iris.sh
 
 # Firefox Bind
-bindsym $mod+shift+f exec firefo
+bindsym $mod+shift+f exec firefox
 
 # To set Wallpaper
 exec sh ~/.fehbg
