@@ -131,10 +131,6 @@ bindsym $mod+Shift+8 move container to workspace $workspace8
 bindsym $mod+Shift+9 move container to workspace $workspace9
 bindsym $mod+Shift+0 move container to workspace $workspace10
 
-# Assigned Workspaces make these programs load on these workspaces.
-#assign [class="Firefox"] $workspace2
-
-
 
 # reload the configuration file
 bindsym $mod+Shift+c reload
@@ -218,6 +214,12 @@ bindsym $mod+m exec urxvt -e /home/kman432/ranger-stable/ranger.py
 
 # htop bind
 bindsym $mod+p exec urxvt -e htop
+
+# Iris Bind
+bindsym $mod+i exec /home/kman432/IrisF/Iris.sh
+
+# Firefox Bind
+bindsym $mod+shift+f exec firefo
 
 # To set Wallpaper
 exec sh ~/.fehbg
