@@ -7,5 +7,6 @@ i3blocks,
 ranger,
 htop,
 URxvt,
+Iris,
 and the
 font is San Francisco Display
