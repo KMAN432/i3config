@@ -210,9 +210,6 @@ bindsym $mod+m exec urxvt -e /home/kman432/ranger-stable/ranger.py
 # htop bind
 bindsym $mod+p exec urxvt -e htop
 
-# Iris Bind
-bindsym $mod+i exec /home/kman432/IrisF/Iris.sh
-
 # Firefox Bind
 bindsym $mod+shift+f exec firefox
 
