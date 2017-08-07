@@ -10,3 +10,4 @@ termite,
 Iris,
 and the
 font is Hermit-medium
+and also Font-awesome is needed for polybar to produce the icons in the taskbar
