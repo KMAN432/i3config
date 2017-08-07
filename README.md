@@ -1,12 +1,12 @@
 # i3config
-In case anyone else is reading this, these are my personal i3 config files, just in case I distro hop or anything bad happens
+In case anyone else is reading this, these are my personal i3 config files, just in case I distro hop
 Programs required for this config:
 compton,
 rofi,
 i3blocks,
 ranger,
 htop,
-URxvt,
+termite,
 Iris,
 and the
-font is San Francisco Display
+font is Hermit-medium
