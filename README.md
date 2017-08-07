@@ -3,7 +3,7 @@ In case anyone else is reading this, these are my personal i3 config files, just
 Programs required for this config:
 compton,
 rofi,
-i3blocks,
+polybar,
 ranger,
 htop,
 termite,
